@@ -1,8 +1,8 @@
 # odin-recipes
-this project is a demonstration of what I have learned so far
-it will be a demonstration of HTML webpage that includes:
-- different headers
-- different representation of texts such as bold and italics
-- lists that are ordered and unordered
-- text that redirects to an absolute and relative link
-- images from relative and absolute links
+This project is for The Odin Project.
+It is a website with a collection of food recipes.
+Foods Include:
+- New York Cheesecake
+- Chicken Florentine
+- Karaage
+It utilizes multiple headers, paragraphs, anchors, and images to create different webpages.
