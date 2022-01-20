@@ -1,0 +1,39 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    background-color: rgb(144, 142, 158);
+}
+
+.text {
+    text-align: center;
+}
+
+.text.recipe {
+    font-size: 20px;
+}
+
+.text.title {
+    font-size: 48px;
+}
+
+.text.menu {
+    font-size: 32px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img.title {
+    height: 400px;
+    width: auto;
+}
+
+.img.recipe {
+    height: 128px;
+    width: 128px;
+}
